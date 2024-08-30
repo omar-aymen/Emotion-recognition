@@ -1,4 +1,4 @@
-opencv_python==4.2.0.32
+opencv_python==4.8.1.78
 Keras==2.3.1
 pandas==0.25.3
 numpy==1.17.4
