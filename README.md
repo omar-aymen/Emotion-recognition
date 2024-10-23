@@ -37,13 +37,13 @@ pip install -r requirements.txt
 <a id="p3"></a> 
 # Usage:
 
-The program will creat a window to display the scene capture by webcamera and a window representing the probabilities of detected emotions.
+The program will create a window to display the scene capture by web camera and a window representing the probabilities of detected emotions.
 
 > Demo
 
 python real_time_video.py
 
-You can just use this with the provided pretrained model i have included in the path written in the code file, i have choosen this specificaly since it scores the best accuracy, feel free to choose any but in this case you have to run the later file train_emotion_classifier
+You can just use this with the provided pretrained model I have included in the path written in the code file, I have choosen this specificaly since it scores the best accuracy, feel free to choose any but in this case you have to run the later file train_emotion_classifier
 > If you just want to run this demo, the following content can be skipped
 - Train
 
