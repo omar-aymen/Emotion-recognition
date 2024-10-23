@@ -37,7 +37,7 @@ pip install -r requirements.txt
 <a id="p3"></a> 
 # Usage:
 
-The program will creat a window to display the scene capture by webcamera and a window representing the probabilities of detected emotions.
+The program will create a window to display the scene capture by web camera and a window representing the probabilities of detected emotions.
 
 > Demo
 
